@@ -1,13 +1,13 @@
 # Hola, mi nombre el Sergi Lleget 👋
 ### Modelador 3D, Escultor, Texturizador
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+<img src = "https://cdna.artstation.com/p/assets/images/images/046/761/812/large/sergi-lleget-sergilleget.jpg" width = "800">
 
 
 Soy un estudiante del Ciclo Superior de Animación 3D, estoy en el segundo año trabajando en el proyecto final.<br>
 Lo que se me da mejor és, modelar, esculpir y texturizar.
 
-> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) 2023 in Developer Technologies & Google Developer Groups Lead
+
 
 ## Programas:
 [![Maya](https://img.shields.io/badge/Maya-4285F4?style=for-the-badge&logo=Autodesk&logoColor=white&labelColor=101010)]()
@@ -25,19 +25,14 @@ Y alguna más...
 
 ## Encuéntrame en:
 
-[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevapps)
-[![Twitch](https://img.shields.io/badge/Twitch-mouredev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
-[![Discord](https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
+
+[![Discord](https://img.shields.io/badge/Discord-Popek-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
 </br>
 [![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/mouredev)
-[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
-[![TikTok](https://img.shields.io/badge/TikTok-@mouredev-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@mouredev)
-[![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/mouredev)
+[![Instagram](https://img.shields.io/badge/Instagram-@seer__07-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
+[![Facebook](https://img.shields.io/badge/Facebook-@Sergi_Lleget-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/mouredev)
 </br>
-[![Link](https://img.shields.io/badge/Link_Site-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://mouredev.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
-[![Udemy](https://img.shields.io/badge/Udemy-Brais_Moure-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930)
-[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
 
 ## Los retos de programación de la comunidad:
 
