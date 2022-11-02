@@ -55,12 +55,12 @@ Y alguna más...
   <tr>
     <td>
 	<a href="https://www.artstation.com/artwork/4Xznnl">
-  		<img src="https://cdnb.artstation.com/p/assets/images/images/049/239/557/large/sergi-lleget-sergilleget1.jpg">
+  		<img src="https://cdnb.artstation.com/p/assets/images/images/049/239/557/large/sergi-lleget-sergilleget1.jpg" >
 	</a>
 	</td>
 	<td>
 	<a href="https://www.artstation.com/artwork/Ze3V5X">
-  		<img src="https://cdnb.artstation.com/p/assets/images/images/046/224/211/large/sergi-lleget-render1.jpg">
+  		<img src="https://cdnb.artstation.com/p/assets/images/images/046/224/211/large/sergi-lleget-render1.jpg" width = "400" height = "300">
 	</a>
 	</td>
 
