@@ -28,7 +28,7 @@ Y alguna más...
 
 [![Discord](https://img.shields.io/badge/Discord-Popek-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
 </br>
-[![Instagram](https://img.shields.io/badge/Instagram-@seer__07-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
+[![Instagram](https://img.shields.io/badge/Instagram-@seer__07-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/seer__07/)
 [![Facebook](https://img.shields.io/badge/Facebook-@Sergi_Lleget-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/mouredev)
 </br>
 
