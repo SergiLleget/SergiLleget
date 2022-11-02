@@ -37,56 +37,31 @@ Y alguna más...
 <table style="width:100%">
   <tr>
     <td>
-	<a href="https://youtu.be/MyzZnIR5gC4">
-  		<img src="http://i3.ytimg.com/vi/MyzZnIR5gC4/maxresdefault.jpg">
+	<a href="https://www.artstation.com/artwork/r9z2X2">
+  		<img src="https://cdnb.artstation.com/p/assets/images/images/045/049/909/large/sergi-lleget-sergilleget2.jpg">
 	</a>
 	</td>
     <td>
-	<a href="https://youtu.be/P6ko_I5GHbs">
-  		<img src="http://i3.ytimg.com/vi/P6ko_I5GHbs/maxresdefault.jpg">
+	<a href="https://www.artstation.com/artwork/zDW52L">
+  		<img src="https://cdnb.artstation.com/p/assets/images/images/048/153/097/large/sergi-lleget-1b-sergi-lleget-diorama01.jpg">
 	</a>
 	</td>
     <td>
-	<a href="https://youtu.be/hGIzLGgf3Bo">
-  		<img src="http://i3.ytimg.com/vi/hGIzLGgf3Bo/maxresdefault.jpg">
+	<a href="https://www.artstation.com/artwork/4XlwJW">
+  		<img src="https://cdna.artstation.com/p/assets/images/images/046/761/812/large/sergi-lleget-sergilleget.jpg">
 	</a>
 	</td>
   </tr>
   <tr>
     <td>
-	<a href="https://youtu.be/BQaxPwZWboA">
-  		<img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
+	<a href="https://www.artstation.com/artwork/4Xznnl">
+  		<img src="https://cdnb.artstation.com/p/assets/images/images/049/239/557/large/sergi-lleget-sergilleget1.jpg">
 	</a>
 	</td>
 	<td>
-	<a href="https://youtu.be/ebQphhLpJG0">
-  		<img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
+	<a href="https://www.artstation.com/artwork/Ze3V5X">
+  		<img src="https://cdnb.artstation.com/p/assets/images/images/046/224/211/large/sergi-lleget-render1.jpg">
 	</a>
 	</td>
-   <td>
-	<a href="https://youtu.be/X5fjEEmXR2s">
-  		<img src="http://i3.ytimg.com/vi/X5fjEEmXR2s/maxresdefault.jpg">
-	</a>
-	</td>
-  </tr>
-    <tr>
-    <td>
-	<a href="https://youtu.be/1IpkZhkPC_I">
-  		<img src="http://i3.ytimg.com/vi/1IpkZhkPC_I/maxresdefault.jpg">
-	</a>
-	</td>
-	<td>
-	<a href="https://youtu.be/HH7U3tA0S8M">
-  		<img src="http://i3.ytimg.com/vi/HH7U3tA0S8M/maxresdefault.jpg">
-	</a>
-	</td>
-   <td>
-	<a href="https://youtu.be/vhrus08jp6s">
-  		<img src="http://i3.ytimg.com/vi/vhrus08jp6s/maxresdefault.jpg">
-	</a>
-	</td>
-  </tr>
-</table>
-</table>
 
 #### Puedes apoyar siguiéndome en mis redes y en ArtStation. ¡Gracias!
